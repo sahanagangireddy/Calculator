@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository-metadata>
+  <version>1.0.0</version>
+  <url>@rootUrl@/content/repositories/Calculator.1</url>
+  <id>Calculator.1</id>
+  <name>Calculator_1</name>
+  <layout>maven2</layout>
+  <policy>snapshot</policy>
+</repository-metadata>
